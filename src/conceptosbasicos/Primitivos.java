@@ -21,6 +21,10 @@ public class Primitivos {
         char c = 'a';
         char d = 1;
         char e = '\u0021';
+        char espacio = '\u0020';
+        char retroceso = '\b';
+        char tabulador = '\t';
+        char nuevaLinea = '\n';
 
         byte f = 126;
         short g = 32766;
