@@ -29,8 +29,9 @@ public class Primitivos {
         long i = 9223372036854775806L;
 
         //La 'f' y la 'd' es para indicar que son números "float" o "double"
-        float j = 3.14f;
-        double k = 4.70d;
+        //Si escribimos un número float o double y ponemos "e" seguido de un número le estamos dando el exponente
+        float j = 3.14e2f; //Este número es 314 (la coma se mueve 2 veces a la derecha)
+        double k = 4.70e-2d; //Este número es 0.047 (la coma se mueve 2 veces a la izquierda)
 
     }
 }
