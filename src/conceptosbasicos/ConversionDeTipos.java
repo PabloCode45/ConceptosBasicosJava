@@ -15,6 +15,17 @@ public class ConversionDeTipos {
         String logicoStr = "true";
         boolean logicoBoolean = Boolean.parseBoolean(logicoStr);
         System.out.println("logicoBoolean = " + logicoBoolean);
+        
+        int i = 22786;
+        
+        short s = (short) i;
+        System.out.println("s = " + s);
+        long l = (long) i;
+        System.out.println("l = " + l);
+        char c = (char) i;
+        System.out.println("c = " + c);
+        float f = (float) i;
+        System.out.println("f = " + f);
 
 
     }
