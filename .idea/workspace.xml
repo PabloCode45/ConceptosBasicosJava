@@ -2,10 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86daaf57-de7e-4c58-879d-4eac9ad50bc7" name="Changes" comment="string">
-      <change afterPath="$PROJECT_DIR$/src/ClaseString/EjemploString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClaseString/EjemploStringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseString/EjemploConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseString/EjemploExtensionArchivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseString/EjemploInmutable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseString/EjemploMetodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseString/EjemploMetodosArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseString/EjemploTestRendimientoConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClaseString/EjemploValidar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/Aritmeticos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/Asignacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/IncrementalesDecrementales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/Logicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/Relacionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operadores/Unarios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conceptosbasicos/ConversionDeTipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceptosbasicos/ConversionDeTipos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClaseString/EjemploString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClaseString/Ejemplo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClaseString/EjemploStringConcat.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +51,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;proofread&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -46,13 +59,13 @@
       <recent name="ClaseString" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EjemploStringConcat">
-    <configuration name="ConversionDeTipos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conceptosbasicos.ConversionDeTipos" />
+  <component name="RunManager" selected="Application.Logicos">
+    <configuration name="Aritmeticos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores.Aritmeticos" />
       <module name="ConceptosBasicosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conceptosbasicos.*" />
+          <option name="PATTERN" value="Operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClaseString.EjemploString" />
+    <configuration name="IncrementalesDecrementales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores.IncrementalesDecrementales" />
       <module name="ConceptosBasicosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClaseString.*" />
+          <option name="PATTERN" value="Operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EjemploStringConcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClaseString.EjemploStringConcat" />
+    <configuration name="Logicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores.Logicos" />
       <module name="ConceptosBasicosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClaseString.*" />
+          <option name="PATTERN" value="Operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Escaners" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conceptosbasicos.Escaners" />
+    <configuration name="Relacionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores.Relacionales" />
       <module name="ConceptosBasicosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conceptosbasicos.*" />
+          <option name="PATTERN" value="Operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemasNumericos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conceptosmatematicos.SistemasNumericos" />
+    <configuration name="Unarios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operadores.Unarios" />
       <module name="ConceptosBasicosJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conceptosmatematicos.*" />
+          <option name="PATTERN" value="Operadores.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EjemploStringConcat" />
-        <item itemvalue="Application.EjemploString" />
-        <item itemvalue="Application.ConversionDeTipos" />
-        <item itemvalue="Application.Escaners" />
-        <item itemvalue="Application.SistemasNumericos" />
+        <item itemvalue="Application.Logicos" />
+        <item itemvalue="Application.Relacionales" />
+        <item itemvalue="Application.IncrementalesDecrementales" />
+        <item itemvalue="Application.Unarios" />
+        <item itemvalue="Application.Aritmeticos" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670844274698</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="string">
+      <created>1670922871335</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670922871335</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +205,7 @@
     <MESSAGE value="conceptos" />
     <MESSAGE value="conceptos primitivos" />
     <MESSAGE value="conceptos generales y matemáticos" />
-    <option name="LAST_COMMIT_MESSAGE" value="conceptos generales y matemáticos" />
+    <MESSAGE value="string" />
+    <option name="LAST_COMMIT_MESSAGE" value="string" />
   </component>
 </project>

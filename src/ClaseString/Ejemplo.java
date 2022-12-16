@@ -1,6 +1,6 @@
 package ClaseString;
 
-public class EjemploString {
+public class Ejemplo {
     public static void main(String[] args) {
 
         //Esto crea la instancia implícita al nuevo objeto String
